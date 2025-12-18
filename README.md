@@ -44,7 +44,7 @@ pyinstaller.exe .\main.spec
 
 <img src="/images/home.png" width=340px /><img src="/images/game2.png" width=340px />
 
-<img src="/images/scoreboard2.png" width=340px /><img src="/images/paused.png" <img src="/images/settings.png" width="340px">
+<img src="/images/scoreboard2.png" width=340px /><img src="/images/paused.png" /><img src="/images/settings.png" width="340px"/>
 
 <img src="/images/controls1.png" width="340px" /><img src="/images/controls2.png" width="340px" />
 
